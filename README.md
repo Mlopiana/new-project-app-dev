@@ -1,37 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+PROJECT DESCRIPTION 
 
-## Getting Started
+New Project App is a modern web application designed to insert specific functionality here, such as manage tasks efficiently, provide real-time weather updates, or offer an interactive platform for users to share content. The application prioritizes performance, responsiveness, and usability, making it accessible across a variety of devices.
 
-First, run the development server:
+Built with Next.js, Tailwind CSS, and integrated tools like Firebase, Prisma, and Chart.js, New Project App offers a seamless and interactive user experience for modern web users.
 
-```bash
+FEATURES
+
+User Authentication:
+Secure login and registration system powered by Firebase for protecting user accounts.
+
+Real-time Data Updates:
+Dynamic data interactions and updates in real time to ensure a smooth and responsive user experience.
+
+Responsive Design:
+Fully responsive layout optimized for mobile, tablet, and desktop users using Tailwind CSS.
+
+Interactive UI Components:
+Engaging interface components with user-focused design and dynamic content rendering.
+
+TECHNOLOGY USED
+
+Framework:  Next.js
+
+Styling: Tailwind CSS
+
+Hosting: Vercel
+
+Other Tools/Libraries: Firebase, Prisma, Chart.js
+
+
+SETUP AND INSTALLATION INSTRUCTIONS 
+
+1. Clone the repository:
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open your browser and navigate to:
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+TEAM MEMBER CONTRIBUTIONS
 
-## Learn More
+Mark Louise Opiana : Frontend development, UI/UX design, routing, and bug fixes. 
 
-To learn more about Next.js, take a look at the following resources:
+Dan Alip Gatacelo : Backend integration, API development, and database management.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Cathlyne Gliponeo : Deployment, performance optimization, and Documentation.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+Deployed URL
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application is deployed and accessible at: 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# new-project-app-dev
+https://new-project-app-dev-5w9r.vercel.app
+
+PROJECT DESCRIPTION 
+
+New Project App is a modern web application designed to insert specific functionality here, such as manage tasks efficiently, provide real-time weather updates, or offer an interactive platform for users to share content. The application prioritizes performance, responsiveness, and usability, making it accessible across a variety of devices.
+
+Built with Next.js, Tailwind CSS, and integrated tools like Firebase, Prisma, and Chart.js, New Project App offers a seamless and interactive user experience for modern web users.
+
+FEATURES
+
+User Authentication:
+Secure login and registration system powered by Firebase for protecting user accounts.
+
+Real-time Data Updates:
+Dynamic data interactions and updates in real time to ensure a smooth and responsive user experience.
+
+Responsive Design:
+Fully responsive layout optimized for mobile, tablet, and desktop users using Tailwind CSS.
+
+Interactive UI Components:
+Engaging interface components with user-focused design and dynamic content rendering.
+
+TECHNOLOGY USED
+
+Framework:  Next.js
+
+Styling: Tailwind CSS
+
+Hosting: Vercel
+
+Other Tools/Libraries: Firebase, Prisma, Chart.js
+
+
+SETUP AND INSTALLATION INSTRUCTIONS 
+
+1. Clone the repository:
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
+
+4. Open your browser and navigate to:
+http://localhost:3000
+
+
+TEAM MEMBER CONTRIBUTIONS
+
+Mark Louise Opiana : Frontend development, UI/UX design, routing, and bug fixes. 
+
+Dan Alip Gatacelo : Backend integration, API development, and database management.
+
+Cathlyne Gliponeo : Deployment, performance optimization, and Documentation.
+
+
+Deployed URL
+
+The application is deployed and accessible at: 
+
+https://new-project-app-dev-5w9r.vercel.app
+
+GitHub Repository
+Link to source code:
+
+https://github.com/Mlopiana/new-project-app-dev
